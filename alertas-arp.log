@@ -1,0 +1,6 @@
+[2026-11-06T20:45:20.307Z] Detector de ARP Spoofing iniciado. Vigilando 172.18.0.2 cada 5 segundos.
+[2026-11-06T20:45:20.362Z] Línea base registrada: 172.18.0.2 -> 82:cb:3a:49:3c:ef
+[2026-11-06T20:46:15.011Z] *** ALERTA DE POSIBLE ARP SPOOFING ***  La MAC de la puerta de enlace (172.18.0.2) cambió de 82:cb:3a:49:3c:ef a be:d5:90:20:f3:fb
+[2026-11-06T20:49:34.466Z] Detector de ARP Spoofing iniciado. Vigilando 172.18.0.2 cada 5 segundos.
+[2026-11-06T20:49:34.517Z] Línea base registrada: 172.18.0.2 -> be:d5:90:20:f3:fb
+[2026-11-06T20:51:40.010Z] *** ALERTA DE POSIBLE ARP SPOOFING ***  La MAC de la puerta de enlace (172.18.0.2) cambió de be:d5:90:20:f3:fb a 82:cb:3a:49:3c:ef
